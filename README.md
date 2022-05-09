@@ -1,6 +1,6 @@
 # Php Connector with Opengauss
 
-@[TOC]
+@[TOC]()
 
 ## 说明
 
